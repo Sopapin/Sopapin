@@ -2,15 +2,15 @@
 
 Mi nombre es Scarlett Ojeda Aguilar, soy de Puerto Montt, Chile.
 
-* Actualmente voy en 5to año de Ingeniería Civil Informática en la Universidad Austral de Chile.
-* Hago ayudantías de Programación con Python en la Universidad (UACH).
+* Titulada de Ingeniería Civil Informática en la Universidad Austral de Chile.
 
 ## Habilidades
 
 * Responsable y buena organizadora en equipos. 
 * Pensamiento lógico y crítico.
 * Habilidades blandas.
+* Dominio en Python.
 
 ## Contacto
 
-* 📫 scarlett.ojeda@alumnos.uach.cl
+* 📫 scarlett_ojedaa@outlook.com
